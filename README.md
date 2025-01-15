@@ -1,8 +1,10 @@
 # FreeBSD: Un Sistema Operativo Robusto y Versátil
+![download](https://github.com/user-attachments/assets/c3b23e81-4a05-43ce-95c8-e6114e7956f0)
 
 FreeBSD es un sistema operativo avanzado para plataformas compatibles con x86, AMD64, ARM, y más. Es conocido por su estabilidad, seguridad y rendimiento.
 
 ---
+
 
 ## ¿Qué es FreeBSD?
 
