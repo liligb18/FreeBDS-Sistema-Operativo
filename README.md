@@ -58,6 +58,8 @@ FreeBDS es un sistema operativo avanzado, enfocado en ofrecer rendimiento, estab
 ## Tipo de licencia.
 FreeBDS utiliza la *licencia BDS* (Berkeley Software Distribution).
 Es una licencia permisiva que permite usar, modificar y redistribuir el software, incluso para fines comerciales, sin requerir que el código fuente derivado sea publico.
+
+---
 ## Usos Comunes de FreeBSD
 
 1. *Servidores Web*: Funciona como base para grandes servicios como Netflix.
