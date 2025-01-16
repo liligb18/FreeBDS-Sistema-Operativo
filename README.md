@@ -16,6 +16,7 @@ FreeBSD es un sistema operativo de código abierto basado en la investigación r
 - *1977*: Nace el proyecto BSD en Berkeley.
 - *1993*: Lanzamiento de FreeBSD 1.0, basado en 4.3BSD-Lite.
 - *Actualidad*: FreeBSD es uno de los sistemas operativos más confiables en servidores y redes.
+  
 ---
 ## Características del Software de Código Abierto.
 El software de código abierto como FreeBDS, tiene las siguientes características generales:
@@ -23,6 +24,7 @@ El software de código abierto como FreeBDS, tiene las siguientes característic
 - Desarrollo comunitario: Se crea y mantiene gracias a una comunidad global de desarrolladores y colaboradores.
 - Licencia abierta: Tiene licencias que permiten su uso, modificación y redistribución.
 - Actualizaciones frecuentes: Se mejora constantemente mediante aportes de la comunidad.
+  
 ---
 ## Características Principales de FreeBDS.
 
@@ -45,6 +47,7 @@ El software de código abierto como FreeBDS, tiene las siguientes característic
 ## Costos:
 - Es completamente gratuito incluyendo su uso comercial.
 - No existen tarifas de licencia ni costos asociados.
+  
 ---
 ## Propósito.
 FreeBDS es un sistema operativo avanzado, enfocado en ofrecer rendimiento, estabilidad y características avanzadas. Es ideal para:
