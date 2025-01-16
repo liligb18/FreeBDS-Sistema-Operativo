@@ -1,3 +1,4 @@
+
 # FreeBSD: Un Sistema Operativo Robusto y Versátil
 ![download](https://github.com/user-attachments/assets/c3b23e81-4a05-43ce-95c8-e6114e7956f0)
 
@@ -9,6 +10,7 @@ FreeBSD es un sistema operativo avanzado para plataformas compatibles con x86, A
 ## ¿Qué es FreeBSD?
 
 FreeBSD es un sistema operativo de código abierto basado en la investigación realizada por el Proyecto Berkeley Software Distribution (BSD) de la Universidad de California en Berkeley. Es utilizado tanto en entornos personales como empresariales.
+![download](https://github.com/user-attachments/assets/46a1f4f3-b9a1-4764-91c0-e6d343df72fe)
 
 ### Características principales:
 - *Estabilidad*: Ideal para servidores de alta carga y aplicaciones críticas.
